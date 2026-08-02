@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{A61324DE-9DAE-49B3-BB5E-F551109B00BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{69D179D1-458A-4721-A8C5-0C86C0E239E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A61324DE-9DAE-49B3-BB5E-F551109B00BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A61324DE-9DAE-49B3-BB5E-F551109B00BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A61324DE-9DAE-49B3-BB5E-F551109B00BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A61324DE-9DAE-49B3-BB5E-F551109B00BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D179D1-458A-4721-A8C5-0C86C0E239E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D179D1-458A-4721-A8C5-0C86C0E239E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D179D1-458A-4721-A8C5-0C86C0E239E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D179D1-458A-4721-A8C5-0C86C0E239E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
