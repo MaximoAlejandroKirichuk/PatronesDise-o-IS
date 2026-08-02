@@ -29,6 +29,7 @@ while (true)
             break;
         default:
             Console.WriteLine("ingrese un opcion valida");
+            break; 
     }
     
 }
